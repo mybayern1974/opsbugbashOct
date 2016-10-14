@@ -1,0 +1,15 @@
+﻿log/
+xhtml/
+packages/
+obj/
+_site/
+Tools/NuGet/
+.optemp/
+_themes/
+
+.openpublishing.build.mdproj
+.openpublishing.buildcore.ps1
+packages.config
+
+zureMigration.ps1
+.migrationtemp
