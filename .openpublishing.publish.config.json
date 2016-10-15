@@ -6,7 +6,7 @@
     {
       "docset_name": "opsbugbashoctAzure",
       "build_source_folder": "azure",
-      "build_output_subfolder": "opsbugbashoct/azure",
+      "build_output_subfolder": "azure",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
