@@ -67,7 +67,7 @@ layout: HubPage
 				<div class="card nav-card">
 					<div class="nav-card-image"><img src="images/i-vm.png" width="72" height="58" alt=""/></div>
 					<h3>Virtual Network</h3>
-					<p>Provision private networks, optionally connect to on-premises datacenters</p>
+ 					<p>Provision private networks, optionally connect to on-premises datacenters</p>
 				</div><div class="card nav-card">
 					<div class="nav-card-image"><img src="images/i-loadbalancer.png" width="72" height="58" alt=""/></div>
 					<h3>Load Balancer</h3>
@@ -118,7 +118,7 @@ layout: HubPage
 				</div><div class="card nav-card">
 					<div class="nav-card-image"><img src="images/i-siterecovery.png" width="72" height="58" alt=""/></div>
 					<h3>Site Recovery</h3>
-					<p>Orchestrate protection and recovery of private clouds</p>
+					<p>Orchestrate protection and recovery of private clouds </p>
 				</div>
 			</div>
 		</div> 
