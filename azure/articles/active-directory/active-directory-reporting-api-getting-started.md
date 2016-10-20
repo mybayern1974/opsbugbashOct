@@ -18,7 +18,7 @@ ms.author: dhanyahk
 ---
 # Getting started with the Azure Active Directory Reporting API
 *This documentation is part of the [Azure Active Directory Reporting Guide](active-directory-reporting-guide.md).*
-
+*TestTest
 Azure Active Directory (AD) provides a variety of activity, security and audit reports. This data can be consumed through the Azure classic portal, but can also be very useful in a many other applications, such as SIEM systems, audit, and business intelligence tools.
 
 The [Azure AD Reporting APIs](https://msdn.microsoft.com/library/azure/ad/graph/howto/azure-ad-reports-and-events-preview) provide programmatic access to these data through a set of REST-based APIs that can be called from a variety programming languages and tools.
