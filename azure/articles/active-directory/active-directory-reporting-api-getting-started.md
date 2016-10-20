@@ -34,7 +34,7 @@ The Reporting API uses [OAuth](https://msdn.microsoft.com/library/azure/dn645545
 In order to complete the Azure AD application registration work, you must sign in to the Azure classic portal with an Azure subscription administrator account that is also a member of the Global Administrator directory role in your Azure AD tenant. This is because you will be registering the Azure AD application with permissions that require registration/consent using an account with Global Administrator privileges. 
 
 > [!IMPORTANT]
-> Applications running under credentials with "admin" privileges like this can be very powerful, so please be sure to keep the application's ID/secret credentials secure.
+> Applications running under credentials with "admin" privileges like this can be very powerful, so please be sure to keep the application's credentials secure.
 > 
 > 
 
